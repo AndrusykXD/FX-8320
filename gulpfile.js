@@ -43,3 +43,4 @@ const watch_task = () => {
 }
 
 exports.default = series(html_task,scss_task,scripts_task,css_task,img_task, watch_task);
+kjhgfr
